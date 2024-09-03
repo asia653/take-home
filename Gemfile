@@ -13,7 +13,7 @@ gem "jbuilder"
 # gem "redis", ">= 4.0.1"
 
 group :development, :test do
-  gem 'rspec-rails', '~> 6.1.0'
+  gem 'rspec-rails', '~> 7.0.1'
   gem 'factory_bot_rails'
 end
 
